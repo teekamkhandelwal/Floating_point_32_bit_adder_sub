@@ -1,4 +1,6 @@
 # Floating_point_32_bit_adder_sub
+BIT FORMAT = 
+
 in this respiratory cover adder and subtractor part  and contaning testbench and simulation waveform
 flow chart-
 
